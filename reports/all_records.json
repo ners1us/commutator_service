@@ -1,0 +1,52 @@
+[
+  {
+    "msisdn": "7900000009",
+    "incomingCallTotalTime": "367:20:01",
+    "outgoingCallTotalTime": "387:05:25"
+  },
+  {
+    "msisdn": "7900000008",
+    "incomingCallTotalTime": "338:17:24",
+    "outgoingCallTotalTime": "431:55:12"
+  },
+  {
+    "msisdn": "7900000007",
+    "incomingCallTotalTime": "302:44:18",
+    "outgoingCallTotalTime": "419:02:23"
+  },
+  {
+    "msisdn": "7900000006",
+    "incomingCallTotalTime": "297:26:18",
+    "outgoingCallTotalTime": "612:05:51"
+  },
+  {
+    "msisdn": "7900000001",
+    "incomingCallTotalTime": "892:31:27",
+    "outgoingCallTotalTime": "375:44:56"
+  },
+  {
+    "msisdn": "7900000005",
+    "incomingCallTotalTime": "355:42:37",
+    "outgoingCallTotalTime": "542:30:41"
+  },
+  {
+    "msisdn": "7900000004",
+    "incomingCallTotalTime": "260:14:57",
+    "outgoingCallTotalTime": "621:12:14"
+  },
+  {
+    "msisdn": "7900000003",
+    "incomingCallTotalTime": "395:53:23",
+    "outgoingCallTotalTime": "621:20:58"
+  },
+  {
+    "msisdn": "79998887769",
+    "incomingCallTotalTime": "270:09:23",
+    "outgoingCallTotalTime": "20457:27:27"
+  },
+  {
+    "msisdn": "7900000002",
+    "incomingCallTotalTime": "384:02:17",
+    "outgoingCallTotalTime": "433:07:41"
+  }
+]
