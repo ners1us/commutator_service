@@ -32,13 +32,12 @@
 ## Инструменты
 
 - OpenJDK 17
-- Maven/Gradle
+- Gradle
 - JUnit 5
 
 ## Глоссарий
 
 - CDR (Call Data Record) – формат файла, содержащего информацию о действиях абонента за тарифицируемый период.
-- BCE (Billing and Charging Evolution) – стандарт обмена роуминговыми данными.
 - UDR (Usage Data Report) - Отчет об использовании данных.
 - MSISDN (Mobile Subscriber Integrated Services Digital Number) - номер мобильного абонента цифровой сети.
 
