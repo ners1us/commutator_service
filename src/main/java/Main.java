@@ -8,7 +8,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Main {
-    private static final String url = "jdbc:h2:~/Desktop/cdr_processor/src/main/java/Databases/H2";
+    private static final String url = "jdbc:h2:./src/main/java/Databases/H2";
     private static final String user = "admin2";
     private static final String password = "654321";
 
