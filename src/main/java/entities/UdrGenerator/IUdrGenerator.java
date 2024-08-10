@@ -1,4 +1,4 @@
-package Entities.UdrGenerator;
+package entities.UdrGenerator;
 
 public interface IUdrGenerator {
     void generateReport();

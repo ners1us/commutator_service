@@ -1,4 +1,4 @@
-package Entities.SystemManager;
+package entities.SystemManager;
 
 import Models.Cdr;
 import Models.Udr;

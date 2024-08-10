@@ -1,9 +1,9 @@
-package Entities.UdrGenerator;
+package entities.UdrGenerator;
 
-import Entities.SystemManager.ISystemManager;
+import entities.SystemManager.ISystemManager;
 import Models.Cdr;
 import Models.Udr;
-import Entities.SystemManager.SystemManager;
+import entities.SystemManager.SystemManager;
 import Services.DurationCalculator;
 
 import java.sql.Connection;

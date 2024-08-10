@@ -1,7 +1,7 @@
-import Entities.CdrGenerator.CdrGenerator;
-import Entities.CdrGenerator.ICdrGenerator;
-import Entities.UdrGenerator.IUdrGenerator;
-import Entities.UdrGenerator.UdrGenerator;
+import entities.CdrGenerator.CdrGenerator;
+import entities.CdrGenerator.ICdrGenerator;
+import entities.UdrGenerator.IUdrGenerator;
+import entities.UdrGenerator.UdrGenerator;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package Entities.CdrGenerator;
+package entities.CdrGenerator;
 
 import Models.Cdr;
 

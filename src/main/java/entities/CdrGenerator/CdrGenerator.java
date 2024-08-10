@@ -1,8 +1,8 @@
-package Entities.CdrGenerator;
+package entities.CdrGenerator;
 
-import Entities.SystemManager.ISystemManager;
+import entities.SystemManager.ISystemManager;
 import Models.Cdr;
-import Entities.SystemManager.SystemManager;
+import entities.SystemManager.SystemManager;
 
 import java.sql.Connection;
 import java.util.ArrayList;

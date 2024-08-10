@@ -2,11 +2,11 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.Arrays;
 import java.util.List;
 
-import Entities.CdrGenerator.ICdrGenerator;
+import entities.CdrGenerator.ICdrGenerator;
 import Models.Udr;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import Entities.CdrGenerator.CdrGenerator;
+import entities.CdrGenerator.CdrGenerator;
 import Models.Cdr;
 
 public class CdrAndUdrTests {
