@@ -1,7 +1,7 @@
 package entities.SystemManager;
 
-import Models.Cdr;
-import Models.Udr;
+import models.Cdr;
+import models.Udr;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.io.FileWriter;

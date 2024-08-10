@@ -3,11 +3,11 @@ import java.util.Arrays;
 import java.util.List;
 
 import entities.CdrGenerator.ICdrGenerator;
-import Models.Udr;
+import models.Udr;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import entities.CdrGenerator.CdrGenerator;
-import Models.Cdr;
+import models.Cdr;
 
 public class CdrAndUdrTests {
     private ICdrGenerator cdrGenerator;

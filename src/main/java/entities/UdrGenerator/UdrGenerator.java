@@ -1,8 +1,8 @@
 package entities.UdrGenerator;
 
 import entities.SystemManager.ISystemManager;
-import Models.Cdr;
-import Models.Udr;
+import models.Cdr;
+import models.Udr;
 import entities.SystemManager.SystemManager;
 import Services.DurationCalculator;
 

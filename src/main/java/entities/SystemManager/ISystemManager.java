@@ -1,7 +1,7 @@
 package entities.SystemManager;
 
-import Models.Cdr;
-import Models.Udr;
+import models.Cdr;
+import models.Udr;
 
 import java.util.List;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package Models;
+package models;
 
 /**
  * Модель данных для представления записи UDR (Usage Data Report).

@@ -1,6 +1,6 @@
 package entities.CdrGenerator;
 
-import Models.Cdr;
+import models.Cdr;
 
 import java.util.List;
 

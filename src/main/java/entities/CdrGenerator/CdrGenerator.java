@@ -1,7 +1,7 @@
 package entities.CdrGenerator;
 
 import entities.SystemManager.ISystemManager;
-import Models.Cdr;
+import models.Cdr;
 import entities.SystemManager.SystemManager;
 
 import java.sql.Connection;
